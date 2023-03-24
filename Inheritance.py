@@ -25,8 +25,10 @@ class MotorCycle(Vehicle):
 
     
 c = Car()
-c. specific_usage()
+#c. specific_usage()
 
 m = MotorCycle ()
-m.specific_usage()
+#m.specific_usage()
+
+print (isinstance (c, Car))
 
