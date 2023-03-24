@@ -1,6 +1,5 @@
-a= 20
-b= 30
-total= a+b
-print(total)
-
-#dsgbj,jgljnol;b.jonktgihsjjjjjjjjjjjjjjjjjjjjdgihtpoejfflpjihbnf.
+a= input("enter an integer")
+b= input("enter an integer")
+#taking two integers input from user
+a= int(input())
+b= int(input())
