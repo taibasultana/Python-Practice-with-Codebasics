@@ -4,7 +4,7 @@ class Vehicle:
 
 
 class Car(Vehicle):
-    def _init_(self):
+    def __init__(self):
         print ("I'm car")
         self.wheels = 4
         self.has_roof = True
@@ -14,7 +14,7 @@ class Car(Vehicle):
         print ("specific use: commute to work, vacation with family")
 
 class MotorCycle(Vehicle):
-    def _init_(self):
+    def __init__(self):
         print ("I'm motor cycle")
         self.wheels = 4
         self.has_roof = True
