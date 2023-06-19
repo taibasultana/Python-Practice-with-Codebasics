@@ -1,5 +1,5 @@
 class Father():
-    def Skills (self):
+    def skills (self):
         print ("I enjoy gardening,programming")
 
 class Mother ():
